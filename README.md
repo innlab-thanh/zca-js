@@ -6,17 +6,19 @@ This is an unofficial Zalo API for personal account. It work by simulating the b
 
 ## Table of Contents
 
--   [Installation](#installation)
--   [Documentation](#documentation)
--   [Basic Usages](#basic-usages)
-    -   [Login](#login)
-    -   [Listen for new messages](#listen-for-new-messages)
-    -   [Send a message](#send-a-message)
-    -   [Get/Send a sticker](#getsend-a-sticker)
--   [Example](#example)
--   [Projects](#projects)
--   [Contributing](#contributing)
--   [License](#license)
+- [ZCA-JS](#zca-js)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Documentation](#documentation)
+  - [Basic Usages](#basic-usages)
+    - [Login](#login)
+    - [Listen for new messages](#listen-for-new-messages)
+    - [Send a message](#send-a-message)
+    - [Get/Send a sticker](#getsend-a-sticker)
+  - [Example](#example)
+  - [Projects](#projects)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Installation
 
